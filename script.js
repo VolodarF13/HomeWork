@@ -6,9 +6,9 @@ const numberOfFilms = +prompt('Скільки фільмів ви уже поб�
 //Task 2
 const  personalMovieDB = {
    count : numberOfFilms,
-    movies : moviesOff = {},
-     actors : actorsIt = {},
-      genres : genresIs = [],
+    movies : {},
+     actors : {},
+      genres : [],
       privat : false
    };
 
